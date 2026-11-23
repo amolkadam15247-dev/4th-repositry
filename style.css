@@ -1,0 +1,32 @@
+/* Background Design */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Heading Design */
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+
+/* Paragraph Design */
+p {
+    color: black;
+    font-size: 20px;
+}
+
+/* Button Design */
+button {
+    background-color: blue;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
